@@ -1,6 +1,6 @@
 ---
-title: "Danny Ngipol - Full-Stack Developer"
-description: "Results-driven Software Developer crafting impactful solutions"
+title: "Danny Ngipol - Software Engineer"
+description: "Value-adding software developer crafting impactful solutions"
 ---
 
 # Building Solutions That Matter
@@ -15,7 +15,7 @@ I'm a software engineer who transforms complex business requirements into elegan
 - 📊 Reduced system processing time by 80% through optimization
 - ⚡ Improved patient waiting time by 20% through automation
 - 🏆 2x recipient of Exemplary Employee Award
-- 🎓 Regular speaker on workplace excellence and technical training
+- 🎓 Regular speaker on Workplace Excellence and Technical Training
 
 ### Technical Arsenal
 
