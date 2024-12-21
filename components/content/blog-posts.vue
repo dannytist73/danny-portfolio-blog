@@ -7,18 +7,13 @@
             </div>
             <ul>
                 <li v-for="post in posts" :key="post._path">
-                    <NuxtLink
-                        :to="post._path"
-                        class="column group hover:bg-gray-200 dark:hover:bg-gray-800"
-                    >
-                        <div
-                            :class="{
-                                'text-white group-hover:text-gray-200 dark:text-gray-900 dark:group-hover:text-gray-800':
-                                    !post.displayYear,
-                                'text-gray-400 dark:text-gray-500':
-                                    post.displayYear,
-                            }"
-                        >
+                    <NuxtLink :to="post._path" class="column group hover:bg-gray-200 dark:hover:bg-gray-800">
+                        <div :class="{
+                            'text-white group-hover:text-gray-200 dark:text-gray-900 dark:group-hover:text-gray-800':
+                                !post.displayYear,
+                            'text-gray-400 dark:text-gray-500':
+                                post.displayYear,
+                        }">
                             {{ post.year }}
                         </div>
                         <div>{{ post.title }}</div>

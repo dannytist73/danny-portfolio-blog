@@ -1,56 +1,62 @@
 ---
-description: "about me section of dcode"
+title: "About Danny Ngipol"
+description: "A self-taught developer passionate about creating impactful solutions"
 ---
 
-# Hello There, I'm Danny
+# Hello, I'm Danny 👋
 
-## About me
+I'm a Software Engineer at Baguio General Hospital and Medical Center, where I've been turning complex challenges into efficient solutions. My journey in software development has been quite unique - I've been a one-person development team, handling everything from requirements gathering to production deployment.
 
-Hello! I'm Danny Ngipol, a Full-Stack Web Developer currently working at Baguio General Hospital and Medical Center. With over 5 years of experience in the field, I've had the opportunity to work on a variety of impactful projects that have significantly improved the efficiency and effectiveness of our medical center's operations.
+## My Journey
 
-## Professional Experience
+What makes my journey different is how I got here. I started as a Job Order developer without any mentors, learning everything on the job. It wasn't always smooth sailing - I had to rebuild some systems from scratch as I learned better ways to do things. But that's what makes this journey exciting - every challenge is an opportunity to grow.
 
-During my tenure at Baguio General Hospital and Medical Center, I've led and developed several key projects:
+### Key Projects That Shaped Me
 
--   **PETRIS (Professional Education Training and Research Information System):** This is my largest project where I digitalized the manual processes of the Training and Research department. The system includes a Learning Management System (LMS), Competency Assessment Tool, Coaching and Mentoring modules, and various digitalized forms.
+#### PETRIS (Professional Education Training and Research Information System)
 
--   **BGHMC Outpatient Department eKiosk:** I developed this system to digitalize the patient registration process in the outpatient department, streamlining operations and reducing wait times.
+This is my largest project to date - a comprehensive system that digitalized our Training and Research department's manual processes. By the time I developed this, I had grown significantly as a developer. The system includes:
 
--   **Psychosocial Assessment Tool:** This tool is used by medical social workers at the Malasakit Center to assess the psychosocial needs of patients, ensuring they receive appropriate support and care.
+- A Learning Management System
+- Competency Assessment Tools
+- Digital Forms that streamlined workflows
 
-## Skills and Expertise
+#### BGHMC Outpatient Department eKiosk
 
-I am proficient in a range of technologies and programming languages, including:
+This project taught me one of my biggest lessons in software development. Initially, I designed it to use biometric fingerprints for patient identification. After successfully integrating the biometric device (a challenge I had to learn from scratch!), I discovered that the device storage couldn't handle tens of thousands of fingerprints. This led to a pivot - switching to ID numbers instead. It was a valuable lesson in scalability and adaptability.
 
--   **Vue.js**
--   **Laravel**
--   **PHP**
+## What Drives Me
 
-Additionally, I have experience working with:
+What makes me proud isn't just the technical challenges I've overcome, but the real impact my work has on people's lives. Seeing how my systems help both patients and hospital employees drives me to keep improving. This impact has been recognized too - I've been awarded as an exemplary employee twice, which motivates me to push even further.
 
--   **Java**
--   **C#**
--   **VB.net**
--   **ASP.net**
+## Technical Expertise
 
-Although I'm a bit rusty with the latter technologies, I have successfully utilized them in previous projects.
+I work primarily with:
 
-## Interests and Hobbies
+- Vue.js
+- Laravel
+- PHP
 
-Outside of my professional work, I have a variety of hobbies and interests that keep me engaged and inspired:
+What's interesting about my tech stack is that I didn't know any of these when I started. I chose them because they were the frameworks used at the hospital, and I've grown to appreciate how they help me create systems that truly add value and improve processes.
 
--   **Digital Arts:** I enjoy creating digital artwork in my free time, exploring different styles and techniques.
--   **Motorcycle Riding:** I love the thrill and freedom of riding my motorcycle, exploring new places and enjoying the open road.
--   **Sports:** I'm particularly passionate about basketball, playing regularly to stay active and competitive.
+## Beyond Coding
 
-## Purpose of This Blog
+When I'm not coding, you'll find me:
 
-This blog serves as my digital journal, where I document my thoughts, experiences, and reflections on a wide range of topics. From my professional insights as a software engineer to personal musings and creative explorations, I hope to share my journey with you and inspire meaningful discussions.
+- Creating digital art - this actually influences my development work, helping me design more engaging and artistic user interfaces while keeping them professional
+- Riding my motorcycle and exploring new places
+- Lifting weights at the gym
 
-## Contact Information
+## Let's Connect!
 
-Feel free to reach out to me if you have any questions, comments, or just want to connect!
+📄 [Download my Resume](/files/danny_resume.pdf){target="\_blank"}
 
-Thank you for visiting my blog!
+I'm always interested in connecting with fellow developers:
+
+📧 <a href="mailto:dannytist@outlook.com" target="_blank">dannytist@outlook.com</a>
+💼 <a href="https://www.linkedin.com/in/danny-boy-ngipol-763a7b126" target="_blank">LinkedIn</a>
+🐱 <a href="https://github.com/dannytist73" target="_blank">GitHub</a>
 
 ---
+
+"Every challenge is an opportunity to create something better."

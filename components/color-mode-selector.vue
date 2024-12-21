@@ -3,12 +3,9 @@
         <div class="text-gray-500 text-xs" v-if="showNextModeLabel">
             Switch to {{ nextMode }} mode
         </div>
-        <button
-            @click="toggleMode"
-            class="hover:bg-gray-200 dark:hover:bg-gray-600 px-2 py-1 text-gray-500 text-4xl md:text-base"
-            @mouseenter="showNextModeLabel = true"
-            @mouseleave="showNextModeLabel = false"
-        >
+        <button @click="toggleMode"
+            class="hover:bg-gray-200 dark:hover:bg-gray-600 px-2 py-1 text-gray-500 dark:text-gray-400 font-medium"
+            @mouseenter="showNextModeLabel = true" @mouseleave="showNextModeLabel = false">
             {{ nextModeIcon }}
         </button>
     </div>
@@ -21,9 +18,9 @@ const colorMode = useColorMode();
 const modes = ["system", "light", "dark"];
 
 const nextModeIcons = {
-    system: "🌓",
-    light: "🌕",
-    dark: "🌑",
+    system: "⚡",  // or use "☰" or "⚙"
+    light: "☀",   // or use "L"
+    dark: "☾",    // or use "D"
 };
 
 const nextMode = computed(() => {

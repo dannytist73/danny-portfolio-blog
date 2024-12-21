@@ -1,16 +1,14 @@
 <template>
-    <div class="not-prose">
+    <div class="not-prose mb-8">
         <section v-if="pending">Loading...</section>
         <section v-else-if="error">
             Something went wrong... Please try again!
         </section>
         <section v-else>
             <ul class="grid grid-cols-1 gap-4">
-                <li
-                    v-for="repository in repos"
+                <li v-for="repository in repos"
                     class="border border-gray-200 dark:border-gray-800 rounded-sm p-4 hover:bg-gray-100 dark:hover:bg-gray-500 font-mono"
-                    :key="repository.id"
-                >
+                    :key="repository.id">
                     <a :href="repository.html_url" target="_blank">
                         <div class="flex items-center justify-between text-sm">
                             <div class="font-semibold">

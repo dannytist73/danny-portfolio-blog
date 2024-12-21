@@ -1,0 +1,40 @@
+DANNY-PORTFOLIO-BLOG
+├── .nuxt
+├── app
+├── components
+│   ├── content
+│   │   ├── blog-posts.vue
+│   │   ├── latest-blog-posts.vue
+│   │   ├── projects-list.vue
+│   │   ├── toc-links.vue
+│   │   ├── color-mode-selector.vue
+│   │   └── menu.vue
+├── content
+│   ├── blog
+│   │   ├── 2023
+│   │   │   ├── first.md
+│   │   │   ├── index.md
+│   │   │   └── vue-introduction.md
+│   │   ├── about.md
+│   │   ├── index.md
+│   │   └── projects.md
+├── layouts
+│   └── default.vue
+├── node_modules
+├── pages
+│   ├── blog
+│   │   ├── [..slug].vue
+│   │   ├── about.vue
+│   │   ├── index.vue
+│   │   └── projects.vue
+├── public
+│   ├── images
+│   └── favicon.ico
+├── server
+├── .gitignore
+├── app.vue
+├── error.vue
+├── file.txt
+├── nuxt.config.ts
+├── package-lock.json
+└── package.json
