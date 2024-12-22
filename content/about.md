@@ -1,6 +1,6 @@
 ---
-title: "About Danny Ngipol"
-description: "A self-taught developer passionate about creating impactful solutions"
+title: "About Me"
+description: "I love creating impactful software solutions"
 ---
 
 # Hello, I'm Danny 👋
